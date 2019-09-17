@@ -1,2 +1,2 @@
-# ex
-trial
+# personal project
+projects
