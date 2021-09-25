@@ -1,2 +1,2 @@
-# personal projects
-projects
+# JAVA Games
+
