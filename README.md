@@ -1,2 +1,2 @@
-# JAVA Games
+# JAVA Playground
 
